@@ -437,28 +437,28 @@ section{
 }
 
 .skill-column:nth-child(1) .skill-content .progress:nth-child(1) .bar span{
-    width: 50%;
+    width: 90%;
 }
 .skill-column:nth-child(1) .skill-content .progress:nth-child(2) .bar span{
-    width: 50%;
+    width: 70%;
 }
 .skill-column:nth-child(1) .skill-content .progress:nth-child(3) .bar span{
-    width: 50%;
+    width: 40%;
 }
 .skill-column:nth-child(1) .skill-content .progress:nth-child(4) .bar span{
-    width: 50%;
+    width: 60%;
 }
 .skill-column:nth-child(2) .skill-content .progress:nth-child(1) .bar span{
-    width: 50%;
+    width: 90%;
 }
 .skill-column:nth-child(2) .skill-content .progress:nth-child(2) .bar span{
-    width: 50%;
+    width: 70%;
 }
 .skill-column:nth-child(2) .skill-content .progress:nth-child(3) .bar span{
     width: 50%;
 }
 .skill-column:nth-child(2) .skill-content .progress:nth-child(4) .bar span{
-    width: 50%;
+    width: 30%;
 }
 
 .skill-box .skill-content::before{
@@ -505,6 +505,8 @@ section{
     border-radius: .6rem;
     padding: 5rem 1rem;
     z-index: 5;
+    text-align: center;
+    
 }
 .project-box .project-content::before{
     content:"";
