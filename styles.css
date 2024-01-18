@@ -54,6 +54,7 @@ body{
     color: var(--text-color);
     font-weight: 600;
 }
+
 .navbar{
     position: relative;
 }
@@ -247,7 +248,7 @@ section{
 }
 .heading{
     position: relative;
-    font-size: xx-large;
+    font-size: xxx-large;
     text-align: center;
     margin-bottom: 3rem;
 }
@@ -502,7 +503,7 @@ section{
     position: relative;
     border: .2rem solid var(--main-color);
     border-radius: .6rem;
-    padding: 20rem 1.5rem;
+    padding: 5rem 1rem;
     z-index: 5;
 }
 .project-box .project-content::before{
